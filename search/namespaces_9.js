@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['advection_12059',['Advection',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1Advection.html',1,'LocalIntegrators']]],
+  ['cudawrappers_12060',['CUDAWrappers',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebra_1_1CUDAWrappers.html',1,'LinearAlgebra']]],
+  ['distributed_12061',['distributed',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebra_1_1distributed.html',1,'LinearAlgebra']]],
+  ['divergence_12062',['Divergence',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1Divergence.html',1,'LocalIntegrators']]],
+  ['elasticity_12063',['Elasticity',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1Elasticity.html',1,'LocalIntegrators']]],
+  ['epetrawrappers_12064',['EpetraWrappers',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebra_1_1EpetraWrappers.html',1,'LinearAlgebra']]],
+  ['graddiv_12065',['GradDiv',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1GradDiv.html',1,'LocalIntegrators']]],
+  ['kernel_12066',['kernel',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebra_1_1CUDAWrappers_1_1kernel.html',1,'LinearAlgebra::CUDAWrappers']]],
+  ['l2_12067',['L2',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1L2.html',1,'LocalIntegrators']]],
+  ['lacexceptions_12068',['LACExceptions',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLACExceptions.html',1,'']]],
+  ['lapacksupport_12069',['LAPACKSupport',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLAPACKSupport.html',1,'']]],
+  ['laplace_12070',['Laplace',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1Laplace.html',1,'LocalIntegrators']]],
+  ['linearalgebra_12071',['LinearAlgebra',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebra.html',1,'']]],
+  ['linearalgebradealii_12072',['LinearAlgebraDealII',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebraDealII.html',1,'']]],
+  ['linearalgebrapetsc_12073',['LinearAlgebraPETSc',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebraPETSc.html',1,'']]],
+  ['linearalgebratrilinos_12074',['LinearAlgebraTrilinos',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebraTrilinos.html',1,'']]],
+  ['lineminimization_12075',['LineMinimization',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLineMinimization.html',1,'']]],
+  ['localintegrators_12076',['LocalIntegrators',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators.html',1,'']]],
+  ['maxwell_12077',['Maxwell',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1Maxwell.html',1,'LocalIntegrators']]],
+  ['mpi_12078',['MPI',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebraPETSc_1_1MPI.html',1,'LinearAlgebraPETSc::MPI'],['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebraTrilinos_1_1MPI.html',1,'LinearAlgebraTrilinos::MPI']]],
+  ['patches_12079',['Patches',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLocalIntegrators_1_1Patches.html',1,'LocalIntegrators']]],
+  ['readwritevector_12080',['ReadWriteVector',['http://www.dealii.org/developer/doxygen/deal.II/classLinearAlgebra_1_1ReadWriteVector_1_1FunctorTemplate.html',1,'LinearAlgebra']]],
+  ['tpetrawrappers_12081',['TpetraWrappers',['http://www.dealii.org/developer/doxygen/deal.II/namespaceLinearAlgebra_1_1TpetraWrappers.html',1,'LinearAlgebra']]]
+];
